@@ -19,8 +19,8 @@ def load_lottieurl(url):
 
 #---LOAD ASSETS ---
 lottie_shopping = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_5ngs2ksb.json")
-img_malisa = Image.open("malisa.png")
-img_onlinesm2 = Image.open("slika2.png")
+img_malisa = Image.open("images/malisa.png")
+img_onlinesm2 = Image.open("images/slika2.png")
 
 
 #--HEADER SECTION---
